@@ -1,10 +1,8 @@
 # Olá! 👋
 
-Sou Analista de Sistemas!
+Sou Analista de Sistemas apaixonado por desenvolvimento de soluções e ferramentas para facilitar tarefas do dia a dia.
 
 Atualmente trabalhando em projetos para automação industrial utilizando placas Raspberry Pi juntamente com linguagens como Python, Java, PHP. Aplicativos mobile para comunicação com essas placas via WebService e Sockets.
-
-Apaixonado por desenvolvimento de soluções e ferramentas para facilitar tarefas do dia a dia.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leofabris&count_private=true&show_icons=true&theme=tokyonight)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofabris&layout=compact&theme=tokyonight)
