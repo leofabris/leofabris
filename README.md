@@ -56,4 +56,12 @@ Atualmente trabalhando em projetos para automação industrial utilizando placas
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Entre em contato!
 
+<a href="https://api.whatsapp.com/send?phone=+5519981167329&text=Olá!%20Peguei%20seu%20contato%20pelo%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://t.me/leoffabris"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="mailto:leonardoffabris@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="http://m.me/leoffabris"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+<a href="https://www.facebook.com/leoffabris"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/leonardo-farinha-fabris-3ba53928/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/leleo"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
