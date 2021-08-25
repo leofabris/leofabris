@@ -1,10 +1,25 @@
-### Olá! 👋
+# Olá! 👋
 
 Sou Analista de Sistemas!
 
 Atualmente trabalhando em projetos para automação industrial utilizando placas Raspberry Pi juntamente com linguagens como Python, Java, PHP. Aplicativos mobile para comunicação com essas placas via WebService e Sockets.
 
 Apaixonado por desenvolvimento de soluções e ferramentas para facilitar tarefas do dia a dia.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leofabris&count_private=true&show_icons=true&theme=tokyonight)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofabris&layout=compact&theme=tokyonight)
+
+# Um pouco sobre mim
+
+### Sistemas
+
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![image](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
 
 ### Linguagens que utilizo atualmente:
 
