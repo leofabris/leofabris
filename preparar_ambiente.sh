@@ -120,7 +120,7 @@ echo "               Escrito por: Leonardo F. Fabris"
 echo "=============================================================="
 echo
 
-echo "Olá $USER!"
+echo "Olá, $USER!"
 echo "Iremos preparar sua máquina para desenvolver em java"
 echo "Em um determinado local do script, será requisitado"
 echo "que você informe a senha do super usuário."
