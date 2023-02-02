@@ -17,7 +17,7 @@ baixar_arquivos() {
     wget https://leofabris.com.br/downloads/java_lib.tar.gz
     wget https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_linux-x64_bin.tar.gz
     wget https://github.com/cli/cli/releases/download/v2.22.1/gh_2.22.1_linux_amd64.deb
-    wget https://code.visualstudio.com/sha/download\?build=stable\&os=linux-deb-x64
+    wget https://code.visualstudio.com/sha/download?build=stable\&os=linux-deb-x64
     wget https://github.com/advanced-rest-client/arc-electron/releases/download/v17.0.9/arc-linux-17.0.9-amd64.deb
     wget https://dbeaver.io/files/dbeaver-ce_latest_amd64.deb
 }
@@ -46,6 +46,7 @@ processar_arquivos() {
     mv netbeans-14 $HOME
 
     sudo dpkg -i *.deb
+    sudo dpkg -i download?build=stable\&os=linux-deb-x64
 
 }
 
