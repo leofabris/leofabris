@@ -8,7 +8,7 @@ baixar_arquivos() {
     echo "Baixando arquivos necessários..."
     echo "================================"
     echo
-    sleep 2
+    sleep 1
 
     
     mkdir Ambiente\ Desenvolvimento\ Java
@@ -30,7 +30,7 @@ processar_arquivos() {
     echo "Processando arquivos baixados..."
     echo "================================"
     echo
-    sleep 2
+    sleep 1
 
     tar vzxf jdk-8u333-linux-x64.tar.gz
     mv jdk1.8.0_333 jdk8
@@ -57,7 +57,7 @@ atualizar() {
     echo "Atualizando repositório e pacotes do sistema..."
     echo "==============================================="
     echo
-    sleep 2
+    sleep 1
 
     sudo apt-get update
     sudo apt-get upgrade -y
@@ -72,7 +72,7 @@ gerar_arquivos_cofiguracoes() {
     echo "Gerando arquivo de configuração do NetBeans..."
     echo "=============================================="
     echo
-    sleep 2
+    sleep 1
     cp $HOME/netbeans-14/netbeans/etc/netbeans.conf $HOME/netbeans-14/netbeans/etc/netbeans.conf.bk
     echo 'netbeans_default_userdir="${DEFAULT_USERDIR_ROOT}/14"' > $HOME/netbeans-14/netbeans/etc/netbeans.conf
     echo 'netbeans_default_cachedir="${DEFAULT_CACHEDIR_ROOT}/14"' >> $HOME/netbeans-14/netbeans/etc/netbeans.conf
@@ -84,7 +84,7 @@ gerar_arquivos_cofiguracoes() {
     echo "Configurando variáveis de ambiente..."
     echo "====================================="
     echo
-    sleep 2
+    sleep 1
     cp $HOME/.profile $HOME/.profile.bk
     echo "JAVA_HOME=/usr/java/jdk8" >> $HOME/.profile
     echo "PATH=\$PATH:\$JAVA_HOME/bin" >> $HOME/.profile
@@ -94,7 +94,7 @@ gerar_arquivos_cofiguracoes() {
     echo "Criando link executável do JRE8..."
     echo "=================================="
     echo
-    sleep 2
+    sleep 1
     ln -s /usr/java/jdk8/bin/java
     mv java java8
     sudo mv java8 /bin
@@ -104,7 +104,7 @@ gerar_arquivos_cofiguracoes() {
     echo "Criando link executável do JRE11..."
     echo "==================================="
     echo
-    sleep 2
+    sleep 1
     ln -s /usr/java/jdk11/bin/java
     mv java java11
     sudo mv java11 /bin
