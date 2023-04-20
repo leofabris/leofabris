@@ -8,6 +8,8 @@ Aplicativos mobile para comunicação com essas placas via WebService e Sockets.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leofabris&count_private=true&show_icons=true&theme=tokyonight)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofabris&layout=compact&theme=tokyonight)
 
+https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white
+
 # Um pouco sobre mim
 
 ### Sistemas
@@ -24,7 +26,7 @@ Aplicativos mobile para comunicação com essas placas via WebService e Sockets.
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   
