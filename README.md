@@ -46,7 +46,7 @@ Aplicativos mobile para comunicação com essas placas via WebService e Sockets.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leofabris&count_private=true&show_icons=true&theme=tokyonight)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={leofabris}&theme=blue-green)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofabris&theme=blue-green)
 
 
 ## Entre em contato!
