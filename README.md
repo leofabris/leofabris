@@ -1,12 +1,7 @@
 # Olá! 👋
 
-Sou Analista de Sistemas apaixonado por desenvolvimento de soluções e ferramentas para facilitar tarefas do dia a dia.
-
-Atualmente trabalho como desenvolvedor Java PLM, implementando correções e novas funcionalidades no sistema Windchill da PTC.
-Aplicativos mobile para comunicação com essas placas via WebService e Sockets. E sistemas para consultoria financeira e gerência de loja.
-
-
-
+Sou Engenheiro de Software apaixonado por desenvolvimento de soluções e ferramentas para facilitar tarefas do dia a dia.
+Atualmente trabalho com desenvolvimento Java backend e desenvolvimento de aplicações mobile em flutter.
 
 # Sobre o que uso
 
