@@ -39,6 +39,11 @@ Oracle Cloud Infrastructure · Cloudflare
 ## 📌 Projetos
 
 Aqui no GitHub mantenho alguns projetos, ferramentas e experimentos relacionados a desenvolvimento de software, integrações e infraestrutura.
+Projetos profissionais
+
+A maior parte dos projetos em que atuo profissionalmente está mantida em repositórios privados devido a contratos de confidencialidade (NDA), propriedade intelectual e projetos desenvolvidos para clientes.
+
+Os repositórios públicos disponíveis aqui são projetos pessoais, estudos e ferramentas que posso compartilhar publicamente.
 
 ## 💡 Sobre mim
 
