@@ -1,57 +1,35 @@
 # Olá! 👋
 
-Sou **Software Engineer** com experiência profissional em desenvolvimento de software desde 2015, com foco em **Java Backend, Spring Boot, integrações entre sistemas e bancos de dados**.
+Sou **Engenheiro de Software**, desenvolvedor Java desde 2015, com experiência em **desenvolvimento backend, arquitetura de software, integração entre sistemas e bancos de dados**.
 
-Ao longo da minha carreira, também atuei com arquitetura de software, modernização de sistemas, infraestrutura e automação, buscando sempre construir soluções simples, confiáveis e sustentáveis.
+Atualmente trabalho principalmente com **Java e Spring Boot**, além de atuar com desenvolvimento de aplicações mobile e infraestrutura.
 
-## 🚀 Atualmente
+Ao longo da minha carreira, também trabalhei com modernização de sistemas, APIs, integrações SOAP/JMS, bancos relacionais, servidores Linux e ambientes em cloud.
 
-* ☕ Desenvolvimento Backend com **Java e Spring Boot**
+## 🚀 Principais áreas
+
+* ☕ Java · Spring Boot · Spring
 * 🏗️ Arquitetura e evolução de sistemas
-* 🔗 Integrações entre sistemas e APIs
-* 🗄️ Desenvolvimento e modelagem de bancos de dados
-* ☁️ Cloud, servidores Linux e infraestrutura
-* 📱 Desenvolvimento de aplicações mobile com Flutter
-* 🤖 Explorando ferramentas e soluções envolvendo IA no desenvolvimento de software
+* 🔗 APIs e integração entre sistemas
+* 🗄️ PostgreSQL · MySQL · MariaDB · Oracle
+* 📱 Flutter · Dart
+* 🐧 Linux · Docker · Proxmox
+* ☁️ Oracle Cloud · Cloudflare
 
-## 🛠️ Tecnologias
+## 🔒 Projetos profissionais
 
-### Backend
+Grande parte dos sistemas em que atuo profissionalmente está em repositórios privados devido a **contratos de confidencialidade, propriedade intelectual e projetos desenvolvidos para clientes**.
 
-Java · Spring Boot · Spring · REST APIs · SOAP · JMS
+Por isso, os projetos públicos disponíveis aqui representam principalmente **projetos pessoais, estudos, ferramentas e experimentos que posso compartilhar publicamente**.
 
-### Frontend & Mobile
+## 💡 Interesses
 
-Flutter · Dart · JavaScript · HTML · CSS
+Tenho especial interesse por **backend, arquitetura de software, integração de sistemas, bancos de dados, infraestrutura e automação**.
 
-### Databases
-
-PostgreSQL · MySQL · MariaDB · Oracle
-
-### DevOps & Infrastructure
-
-Linux · Docker · Git · GitHub Actions · Proxmox · pfSense
-
-### Cloud
-
-Oracle Cloud Infrastructure · Cloudflare
-
-## 📌 Projetos
-
-Aqui no GitHub mantenho alguns projetos, ferramentas e experimentos relacionados a desenvolvimento de software, integrações e infraestrutura.
-Projetos profissionais
-
-A maior parte dos projetos em que atuo profissionalmente está mantida em repositórios privados devido a contratos de confidencialidade (NDA), propriedade intelectual e projetos desenvolvidos para clientes.
-
-Os repositórios públicos disponíveis aqui são projetos pessoais, estudos e ferramentas que posso compartilhar publicamente.
-
-## 💡 Sobre mim
-
-Tenho interesse especial por **arquitetura de software, backend, integração de sistemas, infraestrutura e automação**.
-
-Gosto de entender o problema como um todo — desde a regra de negócio e o código até banco de dados, infraestrutura e operação da aplicação.
+Gosto de compreender a solução de ponta a ponta — do problema de negócio ao código, banco de dados, infraestrutura e operação.
 
 ## 📫 Contato
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-farinha-fabris/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-farinha-fabris-3ba53928/)
+* 🌐 [leofabris.com.br](https://leofabris.com.br)
 * 💻 [GitHub](https://github.com/leofabris)
